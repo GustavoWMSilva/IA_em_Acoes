@@ -47,7 +47,10 @@ A seleção das empresas é baseada nos códigos do índice Bovespa, totalizando
 ## Definição da Forma de Análise
 
 A padronização das informações é essencial. Analisamos o crescimento/descrecimento percentual dos fundamentos no segundo trimestre de 2020 em relação ao primeiro trimestre. Para evitar viés, o crescimento/descrecimento das cotações é avaliado do segundo trimestre para o terceiro.
+
 ![Base para Orientação](https://github.com/GustavoWMSilva/Imagens/blob/main/Orientacao.png)
+
+
 ![Exemplo](https://github.com/GustavoWMSilva/Imagens/blob/main/Relacao.png)
 
 
