@@ -57,6 +57,7 @@ A padronização das informações é essencial. Analisamos o crescimento/descre
 ## Tratamento de Dados
 
 Para criar um gabarito, comparamos o comportamento da cotação em relação ao Índice Bovespa. A feature selection reduziu as 47 informações para 10 fundamentos relevantes.
+
 ![Filtro](https://github.com/GustavoWMSilva/Imagens/blob/main/Relevantes.png)
 
 
