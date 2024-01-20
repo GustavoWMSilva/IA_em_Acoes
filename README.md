@@ -20,9 +20,12 @@ Este projeto tem como objetivo utilizar a análise fundamentalista para a seleç
 ### 2. Coleta de Dados
 
 - Seleção de empresas listadas no índice Bovespa (77 códigos de ações).
+  
 ![Fundamentos](https://github.com/GustavoWMSilva/Imagens/blob/main/Empresas.png)
+
 - Utilização do FUNDAMENTUS, uma plataforma online, para obter informações financeiras e fundamentalistas, incluindo Balanço Patrimonial e Demonstrativo de Resultados (DRE) por trimestre.
 - Cotações obtidas via Yahoo Finance para 65 empresas.
+  
 ![Cotações](https://github.com/GustavoWMSilva/Imagens/blob/main/Cotacoes.png)
 
 
