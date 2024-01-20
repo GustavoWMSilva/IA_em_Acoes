@@ -10,7 +10,6 @@ Projeto Inspiração: https://medium.com/swlh/teaching-a-machine-to-trade-stocks
 Este projeto tem como objetivo utilizar a análise fundamentalista para a seleção de ações, empregando uma abordagem baseada em dados trimestrais. A proposta é fornecer informações consistentes à Inteligência Artificial (IA), permitindo que ela tome decisões informadas sobre quais empresas incluir em uma carteira de investimentos.
 
 ![Decisão](https://github.com/GustavoWMSilva/Imagens/blob/main/Decisao.png)
-https://github.com/GustavoWMSilva/Imagens/blob/main/Empresas.png
 ## Etapas do Projeto
 
 ### 1. Entendimento e Projeto
@@ -21,7 +20,7 @@ https://github.com/GustavoWMSilva/Imagens/blob/main/Empresas.png
 ### 2. Coleta de Dados
 
 - Seleção de empresas listadas no índice Bovespa (77 códigos de ações).
-![Fundamentos](https://github.com/GustavoWMSilva/Imagens/blob/main/Decisao.png)
+![Fundamentos](https://github.com/GustavoWMSilva/Imagens/blob/main/Empresas.png)
 - Utilização do FUNDAMENTUS, uma plataforma online, para obter informações financeiras e fundamentalistas, incluindo Balanço Patrimonial e Demonstrativo de Resultados (DRE) por trimestre.
 - Cotações obtidas via Yahoo Finance para 65 empresas.
 ![Cotações](https://github.com/GustavoWMSilva/Imagens/blob/main/Cotacoes.png)
